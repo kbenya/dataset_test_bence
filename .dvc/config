@@ -1,0 +1,4 @@
+[core]
+    remote = bg_info
+['remote "bg_info"']
+    url = gdrive://1IeYLcD6mmJPXYWD1MfCBl2swGcU6tvxo
